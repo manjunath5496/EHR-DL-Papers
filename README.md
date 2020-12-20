@@ -15,7 +15,7 @@ using Generative Adversarial Networks</a></li>
 Learning Techniques for Electronic Health Record (EHR) Analysis</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/ev(5).pdf" style="text-decoration:none;">Towards the Augmented Pathologist:
 Challenges of Explainable-AI in Digital Pathology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/ev(6).pdf" style="text-decoration:none;">A Deep Learning Interpretable Classier for Diabetic Retinopathy Disease Grading</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/ev(6).pdf" style="text-decoration:none;">A Deep Learning Interpretable Classifier for Diabetic Retinopathy Disease Grading</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/EHR-DL-Papers/blob/master/ev(7).pdf" style="text-decoration:none;">Biomedical Question Answering via Weighted
 Neural Network Passage Retrieval</a></li>
 
